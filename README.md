@@ -7,7 +7,7 @@
 Projeto de jogo de Tarot. Desenvolvido em React.js.
 
 ## Link do Surge
-
+https://nippy-poison.surge.sh/
 
 
 ## O que funciona
